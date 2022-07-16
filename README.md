@@ -1,1 +1,1 @@
-# Exercicios utilizando linguagem Haskell
+# Exercicios Haskell
